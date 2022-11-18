@@ -11,9 +11,9 @@ Projeto realizado na semana Spring-React da Devsuperior.
 
 -Programação com os princípios SOLID em mente.
 
-## Modelo conceitual
+## Modelo 
 
-![Modelo bd ESII - atvdd03](https://user-images.githubusercontent.com/94576358/197910078-3f60222e-2176-42d9-9b81-6738e87865fa.PNG)
+https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1?node-id=0%3A1&t=XUaydCBGXbRbrbpO-0
 
 # Tecnologias utilizadas
 ## Back end
